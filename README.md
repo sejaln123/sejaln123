@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # 🌸 Hey there, I’m Sejal!
 
-## 💻 Data Analyst | 🤖 Data Scientist | 📊 Creative
+💻 Data Analyst | SQL | Python | Machine Learning
 
 Welcome to my GitHub! 
 
@@ -49,10 +49,6 @@ I love turning data into insights and building projects that solve real-world pr
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-# 📊 What I’m Working On
-- Building more real-world ML & analytics projects
-- Ready to set off for real world corporate🚀
 
 # 🌐 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/sejalnaik-/
